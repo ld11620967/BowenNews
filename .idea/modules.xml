@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BowenNews.iml" filepath="$PROJECT_DIR$/BowenNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSSDK/CMSSDK.iml" filepath="$PROJECT_DIR$/CMSSDK/CMSSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMSSDK-GUI/CMSSDK-GUI.iml" filepath="$PROJECT_DIR$/CMSSDK-GUI/CMSSDK-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobDependency/MobDependency.iml" filepath="$PROJECT_DIR$/MobDependency/MobDependency.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
