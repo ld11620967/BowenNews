@@ -1,1 +1,2 @@
 include ':app', ':CMSSDK-GUI', ':CMSSDK', ':MobDependency'
+include ':uMSSDK'

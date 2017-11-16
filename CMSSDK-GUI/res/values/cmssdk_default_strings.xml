@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="cmssdk_default_sdk">博闻资讯</string>
+	<string name="cmssdk_default_sdk">CMSSDK</string>
 	<string name="cmssdk_default_set_top">置顶</string>
 	<string name="cmssdk_default_set_hot">热</string>
 	<string name="cmssdk_default_write_comments">写评论...</string>

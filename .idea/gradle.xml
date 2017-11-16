@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/CMSSDK-GUI" />
             <option value="$PROJECT_DIR$/MobDependency" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/uMSSDK" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

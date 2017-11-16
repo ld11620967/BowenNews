@@ -12,12 +12,12 @@
         "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_tab_profile_unsel.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_umssdk_default_bind_platform.xml.flat",
-        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable\\umssdk_default_bind_platform.xml"
-    },
-    {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_cmssdk_default_comment_white_msg.png.flat",
         "source": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\cmssdk_default_comment_white_msg.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_umssdk_default_bind_platform.xml.flat",
+        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable\\umssdk_default_bind_platform.xml"
     },
     {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_umssdk_default_useritem_gender_bg_male.xml.flat",
@@ -36,12 +36,12 @@
         "source": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\cmssdk_default_video_bg.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_add_block.png.flat",
-        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_add_block.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_cmssdk_default_dialog_delete_comment_bg.xml.flat",
         "source": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\cmssdk_default_dialog_delete_comment_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_add_block.png.flat",
+        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_add_block.png"
     },
     {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_ptr_arr_u.png.flat",
@@ -88,12 +88,12 @@
         "source": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\bundles\\debug\\res\\drawable\\cmssdk_default_send_comment_toast_bg.xml"
     },
     {
-        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_infor_details_avatar.png.flat",
-        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_infor_details_avatar.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_vocde.png.flat",
         "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_vocde.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_infor_details_avatar.png.flat",
+        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_infor_details_avatar.png"
     },
     {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_defalut_clear.png.flat",
@@ -116,12 +116,12 @@
         "source": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\cmssdk_default_input_comment_black_pan.png"
     },
     {
-        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_avatar_rect.png.flat",
-        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_avatar_rect.png"
-    },
-    {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_umssdk_default_sms_country_list_sep.xml.flat",
         "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable\\umssdk_default_sms_country_list_sep.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_avatar_rect.png.flat",
+        "source": "D:\\workspace\\android\\BowenNews\\MobDependency\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\umssdk_default_avatar_rect.png"
     },
     {
         "merged": "D:\\workspace\\android\\BowenNews\\CMSSDK-GUI\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_umssdk_default_password.png.flat",
