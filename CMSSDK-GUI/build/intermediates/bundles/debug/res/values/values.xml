@@ -18,7 +18,7 @@
     <string name="cmssdk_default_pull_to_refresh">下拉刷新</string>
     <string name="cmssdk_default_refreshing">刷新中…</string>
     <string name="cmssdk_default_release_to_refresh">松开刷新</string>
-    <string name="cmssdk_default_sdk">CMSSDK</string>
+    <string name="cmssdk_default_sdk">博闻资讯</string>
     <string name="cmssdk_default_send">发送</string>
     <string name="cmssdk_default_send_fail">发送失败</string>
     <string name="cmssdk_default_send_success">发送成功</string>
@@ -31,18 +31,18 @@
     <string name="cmssdk_default_write_comment">写评论</string>
     <string name="cmssdk_default_write_comments">写评论...</string>
     <style name="cmssdk_default_DialogStyle" parent="@android:style/Theme.Dialog">
-		<!-- 边框 -->
+		
 		<item name="android:windowFrame">@null</item>
-		<!-- 是否浮现在activity之上 -->
+		
 		<item name="android:windowIsFloating">true</item>
-		<!-- 半透明 -->
+		
 		<item name="android:windowIsTranslucent">false</item>
-		<!-- 无标题 -->
+		
 		<item name="android:windowNoTitle">true</item>
-		<!-- 自己想要的背景 -->
+		
 		<item name="android:background">@android:color/transparent</item>
 		<item name="android:windowBackground">@android:color/transparent</item>
-		<!-- 模糊 -->
+		
 		<item name="android:backgroundDimEnabled">true</item>
 	</style>
 </resources>
